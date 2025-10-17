@@ -1,4 +1,4 @@
-# AI Tutor — Orchestrator Demo
+# AI Tutor 
 
 A **minimal local implementation** of an AI Tutor Orchestrator combining **FastAPI backend**, **Streamlit frontend**, and a **mock MCP server**. Ideal for hackathons, prototyping, or personal learning projects.
 
