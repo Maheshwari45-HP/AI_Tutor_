@@ -164,5 +164,13 @@ MCP Mock Server (Tool orchestration)
 
 Optional: OpenAI API or other LLMs
 
+Copyright (c) 2025 Maheshwari Khobare
+All rights reserved.
+
+This project is shared for educational and portfolio demonstration purposes only.
+Commercial use, redistribution, or modification of this code is strictly prohibited
+without prior written permission from the author.
+
+
 
 
