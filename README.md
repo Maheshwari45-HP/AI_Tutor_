@@ -164,8 +164,5 @@ MCP Mock Server (Tool orchestration)
 
 Optional: OpenAI API or other LLMs
 
-License
-
-This project is for educational and demo purposes. Feel free to clone and experiment!
 
 
