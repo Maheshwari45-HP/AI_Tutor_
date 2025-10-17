@@ -83,6 +83,11 @@ Open your browser at:
 
 ---
 
+## Frontend Preview
+![frontend_screenshot](https://github.com/user-attachments/assets/3dcae1a3-81c7-4b5c-a944-69c6faeb6ca9)
+
+
+
 ## ⚙️ Configuration
 
 * **Environment Variables:**
