@@ -144,10 +144,10 @@ Advanced personalization based on student engagement and mastery
 
 Support for multiple AI tool APIs
 
-Analytics dashboard for performance and usage metrics
+
 ---
 
-Tech Stack
+🤖Tech Stack
 
 Python
 
